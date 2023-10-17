@@ -13,7 +13,7 @@ public class Ex6_Test {
     static int somaEsperada;
 
     @BeforeEach
-    public void Numeros() {
+    public void numeros() {
         ex6 = new Ex6();
         numero = 123456;
     }
