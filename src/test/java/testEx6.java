@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class Ex6_Test {
+public class testEx6 {
 
     static int numero;
     private Ex6 ex6;

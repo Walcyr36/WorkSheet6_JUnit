@@ -1,6 +1,6 @@
 package org.example;
 
-public class Ex_3_Rectangle {
+public class Ex3 {
 
     public int area(int base, int altura) {
         return base * altura;
